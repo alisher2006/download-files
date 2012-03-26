@@ -1,0 +1,10 @@
+{"posts":[
+{"AttachmentId":263,"FileName":"dummy document 1.docx","DateAdded":"2009-10-06 11:46:12","FileSize":"9,7 KB"},
+{"AttachmentId":264,"FileName":"dummy document 2.docx","DateAdded":"2009-10-07 11:46:12","FileSize":"9,7 KB"},
+{"AttachmentId":265,"FileName":"dummy document 11.docx","DateAdded":"2009-10-08 11:46:12","FileSize":"9,7 KB"},
+{"AttachmentId":266,"FileName":"dummy document 53.docx","DateAdded":"2009-10-09 11:46:12","FileSize":"9,7 KB"},
+{"AttachmentId":271,"FileName":"another dummy document.docx","DateAdded":"2009-10-14 17:14:29","FileSize":"9,7 KB"},
+{"AttachmentId":272,"FileName":"error.png","DateAdded":"2009-10-16 18:58:28","FileSize":"20,9 KB"},
+{"AttachmentId":273,"FileName":"GUI - ugly error message.png","DateAdded":"2009-10-16 19:02:32","FileSize":"13,8 KB"},
+{"AttachmentId":274,"FileName":"message.txt","DateAdded":"2009-10-16 19:09:34","FileSize":"1,5 KB"}
+]}

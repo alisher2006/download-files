@@ -1,0 +1,25 @@
+Task
+
+Create a two-tier web application consisting of a web service and an HTML page to render the data returned by that web service.
+The task description below assumes a .NET solution, but you can use another server-side technology if you prefer. In that case, please include instructions for running the code.
+
+Assessment
+	•	All code should be of production quality – well designed, readable, documented and maintainable.
+	•	The HTML page should render properly in all modern web browsers (IE9, Firefox, Chrome)
+	•	JavaScript: No global variables may be set.
+
+Requirements
+
+Web service
+•	A simple web service that returns a list of files with ID, file name, date and size.
+•	The data should be in JSON format.
+•	The data can be hard-coded. You can use the data in the attached text file.
+
+HTML page
+•	The page should fetch data from the web service using an AJAX call.
+•	The page should list all the files in the JSON object, with all metadata.
+•	The file list should have two columns, i.e. something like this. However please do not use a table to create the layout.
+•	The name of each file should be hyperlinked to a download page, download.aspx, that is assumed to exist in the same folder as the HTML file. (It is not necessary to create the actual download.aspx page.)
+•	The querystring for each link should contain the id and file name of the document, properly escaped.
+•	When the user clicks anywhere outside t he list of links, an alert should be shown: “Please click a link”
+•	Add some basic styling to the listing to make it presentable and user-friendly. The design should be simple and readable – aim for usability rather than cool effects.
